@@ -1,10 +1,7 @@
 
 # ui-select-group-selectable
 
-AngularJS directive for update ui-select:
-
-make groups header selectable (select all group items)
-
+AngularJS directive for update ui-select: make groups header selectable (select all group items)  
 Original attribute in ui-select-choices (*ui-select-header-group-selectable*) is not working
 
 **Only for bootstrap theme**
